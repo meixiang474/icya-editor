@@ -1,0 +1,1 @@
+export const ICYA_EDITOR_CONFIG = "ICYA_EDITOR_CONFIG";
